@@ -10,23 +10,23 @@ Benvingut al meu repositori principal! Aquí trobaràs tots els enllaços a les 
 
 | Pràctica | Descripció | Enllaç |
 |----------|------------|--------|
-| Web Personal | Pàgina web personal | [Veure](https://github.com/jaumesa-iesineu/meta/tree/main/LLDM_1_1/web_personal) |
-| Horari | Pràctica de creació d'horaris amb HTML/CSS | [Veure](https://github.com/jaumesa-iesineu/meta/tree/main/LLDM_1_1/horari) |
+| Web Personal | Pàgina web personal | [Veure](https://github.com/jaumesa-iesineu/meta/tree/main/LLDM_1_1/Tema1/web_personal) |
+| Horari | Pràctica de creació d'horaris amb HTML/CSS | [Veure](https://github.com/jaumesa-iesineu/meta/tree/main/LLDM_1_1/Tema1/horari) |
 
 ### Tema 2
 
 | Pràctica | Descripció | Enllaç |
 |----------|------------|--------|
-| Projecte Personal | Projecte personal complet | [Veure](https://github.com/jaumesa-iesineu/meta/tree/main/LLDM_1_1/projecte_personal) |
-| Pàgina de Productes | Catàleg de productes | [Veure](https://github.com/jaumesa-iesineu/meta/tree/main/LLDM_1_1/p_de_productes) |
+| Projecte Personal | Projecte personal complet | [Veure](https://github.com/jaumesa-iesineu/meta/tree/main/LLDM_1_1/Tema2/projecte_personal) |
+| Pàgina de Productes | Catàleg de productes | [Veure](https://github.com/jaumesa-iesineu/meta/tree/main/LLDM_1_1/Tema2/p_de_productes) |
 
 ### Tema 3
 
 | Pràctica | Descripció | Enllaç |
 |----------|------------|--------|
-| RSS Feed | Creació de feed RSS | [Veure](https://github.com/jaumesa-iesineu/meta/tree/main/LLDM_1_1/JaumeSampol_rss) |
-| Atom Feed | Creació de feed Atom | [Veure](https://github.com/jaumesa-iesineu/meta/tree/main/LLDM_1_1/JaumeSampol_atom) |
-| Projecte RA1-RA4 | Projecte integrat amb TEDx | [Veure](https://github.com/jaumesa-iesineu/meta/tree/main/LLDM_1_1/J%2BSampol%2BProjecte_RA1_RA2_RA4_LLM_Entorns%20Web) |
+| RSS Feed | Creació de feed RSS | [Veure](https://github.com/jaumesa-iesineu/meta/tree/main/LLDM_1_1/Tema3/JaumeSampol_rss) |
+| Atom Feed | Creació de feed Atom | [Veure](https://github.com/jaumesa-iesineu/meta/tree/main/LLDM_1_1/Tema3/JaumeSampol_atom) |
+| Projecte RA1-RA4 | Projecte integrat amb TEDx | [Veure](https://github.com/jaumesa-iesineu/meta/tree/main/LLDM_1_1/Tema3/J%2BSampol%2BProjecte_RA1_RA2_RA4_LLM_Entorns%20Web) |
 
 ---
 
