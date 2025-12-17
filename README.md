@@ -4,6 +4,31 @@ Benvingut al meu repositori principal! Aquí trobaràs tots els enllaços a les 
 
 ---
 
+# Índex de continguts
+
+![Logos](logos.png)
+
+1. Llenguatges de script del costat del client.
+2. Elements del llenguatge JavaScript.
+3. DOM. Utilització d'objectes de JavaScript.
+4. Esdeveniments (Events).
+5. Formularis. Validació.
+
+---
+
+# Objectius d'aprenentatge
+
+![Logos](logos.png)
+
+1. Reconèixer les arquitectures i tecnologies de programació sobre clients web.
+2. Reconèixer i aplicar la sintaxi del llenguatge i verificar la seva execució sobre navegadors web.
+3. Reconèixer i aplicar les funcionalitats aportades pels objectes del llenguatge.
+4. Desenvolupar documents web integrant mecanismes de maneig d'esdeveniments.
+5. Desenvolupar documents web aplicant les característiques del model d'objectes del document.
+
+---
+
+
 ## Llenguatge de Marques (LLDM_1_1)
 
 ### Tema 1
